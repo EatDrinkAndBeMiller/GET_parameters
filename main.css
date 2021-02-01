@@ -1,0 +1,29 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+main {
+    display: block;
+    width: 600px;
+    margin: 0 auto;
+    padding: 1em;
+    background: lightseagreen;
+}
+h1 {
+    margin-top: 0;
+    color: navy;
+}
+label {
+    width: 10em;
+    float: left;
+    padding-right: 1em;
+    padding-bottom: .5em;
+}
+br {
+    clear: left;
+}
+.error {
+    color: red;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 10px;
+}
